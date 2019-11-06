@@ -1,0 +1,19 @@
+
+01.     Determine what technologies app should use.
+        Minikube kubernetes cluster
+        Running a CI pipeline to build test and deploy an app.
+        Running multiple pods.
+        With apps written in various languages.
+        With unit tests.
+            component tests.
+           system tests.
+                run from a python test framework. 
+        I shoould 
+
+
+01. -   Determine what application should do.
+        Voting app to start.
+
+
+
+

@@ -1,2 +1,2 @@
-# scratch
-Bits and pieces
+# Scratch project.
+Contains bits and pieces of code.
